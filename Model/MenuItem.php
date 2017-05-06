@@ -16,6 +16,10 @@ class MenuItem
      */
     protected $menu;
 
+    protected $parent;
+
+
+
     /**
      * @return Menu
      */

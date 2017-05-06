@@ -17,11 +17,7 @@ class Menu
      * @var string
      */
     protected $name;
-
-    /**
-     * @var string
-     */
-    protected $positionId;
+    
 
     /**
      * @var MenuItem[]
